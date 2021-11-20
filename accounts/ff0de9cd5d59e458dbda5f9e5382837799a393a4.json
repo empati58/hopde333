@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dulcet-coast-332706",
+  "private_key_id": "ff0de9cd5d59e458dbda5f9e5382837799a393a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDEK+gwPKhFlnkC\n/Wc34/GXis6+gyyFxlzWNGlhd3N7UTaZdzU/j6HqjijIo4bGpq1r47o99BjZhLl0\nO7pUCEBSNINwIVMcMdNmaalLpRFxeu8MPOQHDs5w7mXWdH5diYab9os9oIQcKVwL\nauG7Bkxirh6MW9SVO9i7vvCociNtB/bmx9GjAH0KMzqNG4d2FCyoALC9Rddaut07\nKOySo5QYpOexUyvkcuXuOL17wVY3VCLNQP5AMKfLX4JB33fl+vNF9Lz/0RjErRIK\nF0hCmP/+6vEv4BGFDlVJ0DGcPkYV6dfXFMYUlX/py2wgYOMrXhLu5kwpU70fA76i\n0JUQmCDLAgMBAAECgf8V2sFAPtNK3Ht0lzyozJTN8y4FQN8dAZndJjeHUMaCdvwn\nG8XC71xt+LKDdRitret8s1OWKz+eKB0Y+Yb4Z+1LbdhXm0/QQvQaYff8tS3buEFF\nUiSUxJebubDWD9HVQMcVgY/pORIJgpmSc8sMGPzd0L57TZhULGlqUjzXYrAIoW06\nIK1BBOVqbEaO5ble9ttH2NxnQLRDEA/PWHCJJOwizlt4TrdCadRT5jFMs5nuzEkc\nEVTveO7ZPAWdYFdO3TTM/HeqjK8AUeGi7pIqAROvcNiGFHyheS4w7csA8SJFUqaa\n7FV0Du9C7iyNdcoPyUTMrY9Oe2CeQL2fq3ISmkECgYEA+SmB+BBRMH3HLHqTxlGW\nFP1aOEvk9yWh0Tm+GNJqTHHqdfSOj6p9QHe/KaylimJWEIq90fg+IlMeMA2lvBjV\nnEDpQyEyWX3LqCcF9I8Beow0cwd7Wst1fW5m+nMWLU3YRTxv4MJ4xurbkUycIpWT\nOr/UpFzM2feW77CAenBKEJECgYEAyY4c4+yLjzRuwoUkGCqcRatexYATAX9T9GPa\nWbdmQb/rBLrguzTi/tGN5T4bRZQvzDNfg8+fmK8Kr9mvLnUgl4NZqBg8prQsi2v6\nF/Pe6OaaLwn88xcihxd0RirYejN/EybJYYN2a7gTsn05wnHRgykaVSWmflWeSvU0\nbAv7CZsCgYEAs02VhChp5NV+0ZlcYqkvsecoV772BI0GSASfskkpyd1odn4JYYW1\nIQGLhbgCYPWnLbxKIaHdROI/pSENFbFhd1KXCoIHM7N9LYL3nCiVTdU7oVPPB2XH\nJP6gCLdtTCjq69g0QrBwLeWxIHzbF2BAVVTa93T4zhqIefCwZGwOQKECgYAHOJw4\nXkUxwEMnnPWKGBy5MkaW9Nu5dgJgAyPTiwqS2HlnFfrvOhnX31IiIHOBrql3u290\nnX+uTLcpTbdFBtVAGGih6RxjLJlb9WZkbUxTM8/aV5VEcFPAW0rDKM3Qsv+ehAk7\nASbA/TtXbb0gBkvnUxWqb0rjw9WEAfz60gMQeQKBgF/1m0wtT5pdDX/Gg82LaMq3\nFjCWPw5MImp4zaH4C0Oc79ulCMxFYLB9KWw5GGUxEgSoV3X1CW2+Ftdm5P9DhIcb\n3S5EBG3yVeDrDD5PflzS1n6ivnMXywjK+RrhEUi02bR1VChITsx00qmyELAv5Gta\neI4lrDWVsgjQ+VqxCxlM\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-imjsihvmll9bmeiotxde2bhwoi@dulcet-coast-332706.iam.gserviceaccount.com",
+  "client_id": "106094508823146838597",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-imjsihvmll9bmeiotxde2bhwoi%40dulcet-coast-332706.iam.gserviceaccount.com"
+}
